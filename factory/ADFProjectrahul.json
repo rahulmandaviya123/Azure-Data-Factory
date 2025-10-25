@@ -1,0 +1,9 @@
+{
+	"name": "ADFProjectrahul",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a4ec43a7-bb0b-400b-989d-5e25a7f34b15",
+		"tenantId": "8b97fb27-503c-4f8f-b6d8-78658b971609"
+	}
+}
